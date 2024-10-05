@@ -1,0 +1,13 @@
+Here’s the requirements.txt file for your Sentiment Analysis Web Application:
+
+makefile
+Copy code
+streamlit==1.25.0
+textblob==0.17.1
+pandas==2.1.1
+This will install the necessary versions of Streamlit, TextBlob, and Pandas for your app to work smoothly. You can generate it by running:
+
+bash
+Copy code
+pip freeze > requirements.txt
+This will automatically list the installed packages with their specific versions.
