@@ -13,7 +13,7 @@ A web-based tool for performing sentiment analysis on text data using **Python**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-app.git
+   git clone https://github.com/lnavya/sentiment-analysis-app.git
    cd sentiment-analysis-app
    ```
 2. Install dependencies:
